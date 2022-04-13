@@ -9,7 +9,7 @@ end = len_array - 1
 while True:
   if start == end:
     if array[start] == key:
-      print("Found %d at %d" % (key, mid));
+      print("Found %d at %d" % (key, start));
     else:
       print("404 Not Found %d" % key)
     break
