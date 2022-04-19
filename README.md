@@ -1,2 +1,2 @@
-# jshs-ppt-search
-Searching python code for Jshs information PPT.
+# jshs-information-ppt
+Python codes for Jshs information PPT.
